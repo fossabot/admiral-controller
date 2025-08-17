@@ -4,6 +4,7 @@
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/mberwanger/admiral-controller)](https://goreportcard.com/report/github.com/mberwanger/admiral-controller)
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/mberwanger/admiral-controller/badge)](https://scorecard.dev/viewer/?uri=github.com/mberwanger/admiral-controller)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmberwanger%2Fadmiral-controller.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmberwanger%2Fadmiral-controller?ref=badge_shield)
 
 ## Contributing
 
@@ -16,6 +17,9 @@ We takes security issues very seriously. **Please do not file GitHub issues or p
 ## License
 
 See the [LICENSE](https://github.com/mberwanger/admiral-controller/tree/master/LICENSE) file for licensing information
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmberwanger%2Fadmiral-controller.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmberwanger%2Fadmiral-controller?ref=badge_large)
 
 ## Thank You
 
